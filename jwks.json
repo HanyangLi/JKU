@@ -5,6 +5,13 @@
             "e": "AQAB",
             "kid": "k1",
             "n": "oqhF7c7vMihq87Htp1nqxh-v5P1lJFCTut4FH1CVPcjZXYSUNWg944osuxmP3IW1AF5o5UKlNJzEKPnExrxuDpUL7yYWTLnYOzp-IV434Jbkw6uZguldfCdNsTI4bi2yQ6T4S9P8EqMWYseibYMbYAnbpP0DciJB4ZXaDeaYeJQEN-WlqHhedkz2lpf4X2_EhkMUMvqHTvV0YXs0Cfv8oSDmwIFoW79wjijtXFLsi_dhFuE3QyPsq86i6Grhs2OuIo4Q-ufsxchrZM1KHFtuWIF6J4U0lOC6RIAPyQBGl-dm3pr4b5i97Hrz81WySASbtsxMfAJY_17tuUd7yj6Vww"
+        },
+        {
+            "kty": "RSA",
+            "e": "AQAB",
+            "kid": "k2",
+            "n": "invalid"
         }
+
     ]
 }
